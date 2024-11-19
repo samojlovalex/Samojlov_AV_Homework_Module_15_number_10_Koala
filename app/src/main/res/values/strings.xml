@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_15_number_10_Koala</string>
+    <!--TODO Menu-->
+    <string name="toolbar_title">Дизайнерский Dashboard</string>
+    <string name="toolbar_subtitle">Mod. 15 № 10</string>
+    <string name="exit">Exit</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="toast_exit">Приложение закрыто</string>
+    <!--TODO: Dashboard-->
+    <string name="my_dashboard_title_text">My Dashboard</string>
+    <!--TODO: Dashboard Element-->
+    <string name="home_text">Home</string>
+    <string name="chat_text">Chat</string>
+    <string name="profile_text">Profile</string>
+    <string name="widgets_text">Widgets</string>
+    <string name="settings_text">Settings</string>
+    <string name="logout_text">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--TODO: Profile Fragment-->
+    <string name="newProfileButtonBT_Text">New+</string>
+    <string name="deleteProfileButtonBT_text">DeleteAll</string>
+    <string name="login_password_incorrect_Toast">Код не верный</string>
+    <string name="delete_profile_alter_dialog_message_Text">Вы действительно хотите удалить профиль \"%1$s\"?\nИстория переписки данного пользователя будет удалена</string>
+    <string name="delete_profile_alert_dialog_Toast">%1$s удален</string>
+    <string name="delete_all_profiles_message_Text">Вы действительно хотите удалить все профили?\nИстория переписок будет очищена</string>
+    <string name="deleteAllProfile_Toast">cleared</string>
+    <!--TODO: Profile Chat-->
+    <string name="messageEditET_Hint">введите сообщение</string>
+    <!--TODO: Settings Fragment-->
+    <string name="text_settings_message">На данный момент все доступные настройки приложения выполнены.\nОжидайте дополнительные настройки в последующих релизах приложения</string>
+    <!--TODO: Profile Item-->
+    <string name="loginProfileItemTV_Hint">Логин</string>
+    <!--TODO: Profile Alter Dialog-->
+    <string name="profile_alter_dialog_message_Text">Введите данные логина и пороля профиля\nВыберете аватар профиля (при необходимости)</string>
+    <string name="profile_alter_dialog_login_hint">Логин</string>
+    <string name="profile_alter_dialog_password_Hint">Пароль</string>
+    <string name="alter_dialog_button_cancelBT_Text">Отмена</string>
+    <string name="alter_dialog_button_saveBT_Text">Сохранить</string>
+    <!--TODO: Profile Enter Alter Dialog-->
+    <string name="profile_enter_alter_dialog_messageTV_Text">Введите пароль</string>
+    <string name="profile_enter_alter_dialog_button_saveBT_Text">Принять</string>
+    <!--TODO: Profile Edit Alter Dialog-->
+    <string name="profile_edit_alter_dialog_messageTV_Text">Измените логин, пароль или аватар профиля</string>
+    <string name="profile_edit_alter_dialog_button_deleteBT_Text">Удалить</string>
+    <!--TODO: Delete Profile Alter Dialog-->
+    <string name="delete_messageTV_Hint">Удаление</string>
+    <string name="delete_profile_enter_alter_dialog_button_deleteBT_Text">Удалить</string>
+    <!--TODO: Message Item-->
+    <string name="dataMessageTV_Hint">Дата и время</string>
+    <string name="messageTV_Hint">Сообщение</string>
+    <string name="editMessage_Toast">Сообщение от %1$s</string>
+
+
+</resources>

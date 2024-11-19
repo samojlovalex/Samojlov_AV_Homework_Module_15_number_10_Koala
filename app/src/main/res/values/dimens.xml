@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TODO: Overall dimensions-->
+    <dimen name="layout_width">0dp</dimen>
+    <dimen name="minHeight">48dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <!--TODO: Third Activity-->
+    <dimen name="tabIndicatorHeight">4dp</dimen>
+    <!--TODO: Start Button-->
+    <dimen name="start_button_textSize">25sp</dimen>
+    <!--TODO: Frame background-->
+    <dimen name="frame_radius">20dp</dimen>
+    <dimen name="frame_width">2dp</dimen>
+    <!--TODO: CardView-->
+    <dimen name="margin_CardVieW">8dp</dimen>
+    <dimen name="cardCornerRadius">6dp</dimen>
+    <dimen name="cardElevation">6dp</dimen>
+    <!--TODO: Dashboard-->
+    <dimen name="title_text_size">30sp</dimen>
+    <!--TODO: Dashboard Element-->
+    <dimen name="dashboard_height">250dp</dimen>
+    <dimen name="dashboard_width">150dp</dimen>
+    <dimen name="dashboard_image_size">100dp</dimen>
+    <dimen name="dashboard_element_margin">16dp</dimen>
+    <!--TODO: Profile Fragment-->
+    <dimen name="button_text_size">20sp</dimen>
+    <!--TODO: Chat Fragment-->
+    <dimen name="text_message_editText_size">15sp</dimen>
+    <!--TODO: Settings Fragment-->
+    <dimen name="text_settings_message_size">15sp</dimen>
+    <!--TODO: Profile Item-->
+    <dimen name="profile_item_image_size">100dp</dimen>
+    <dimen name="profile_item_image_margin">16dp</dimen>
+    <dimen name="profile_item_login_text_size">25sp</dimen>
+    <!--TODO: Profile Alter Dialog-->
+    <dimen name="profile_alter_dialog_message_text_size">10sp</dimen>
+    <dimen name="profile_alter_dialog_margin">16dp</dimen>
+    <dimen name="profile_alter_dialog_login_text_size">20sp</dimen>
+    <!--TODO: Edit Image Alter Dialog-->
+    <dimen name="edit_image_size">150dp</dimen>
+    <dimen name="edit_image_margin">32dp</dimen>
+    <!--TODO: Delete Profile Alter Dialog-->
+    <dimen name="delete_profile_message_text_size">15sp</dimen>
+    <!--TODO: Message Item-->
+    <dimen name="message_profile_image_size">48dp</dimen>
+    <dimen name="message_margin_Top_Bottom">32dp</dimen>
+    <dimen name="message_margin_Start_End">6dp</dimen>
+    <dimen name="data_message_text_size">10sp</dimen>
+
+
+</resources>
